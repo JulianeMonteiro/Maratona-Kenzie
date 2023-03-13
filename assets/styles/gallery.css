@@ -1,0 +1,22 @@
+.gallery {
+  margin: 100px auto;
+  width: 80%;
+}
+
+.photo {
+  width: 100%;
+  margin-bottom: 50px;
+}
+
+.photo img {
+  width: 600px;
+  height: 300px;
+}
+
+.photo-left {
+  text-align: end;
+}
+
+.photo-right {
+  text-align: start;
+}

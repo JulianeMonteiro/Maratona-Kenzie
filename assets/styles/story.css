@@ -32,12 +32,12 @@ body {
   position: relative;
   top: 65%;
   text-align: center;
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.6);
 }
 
 .carousel h1 {
   text-align: center;
-  width: 60%;
+  width: 50%;
   margin: 0 auto 55px auto;
   font-size: 55px;
   font-weight: 400;
@@ -52,7 +52,7 @@ body {
 }
 
 .carousel p {
-  padding: 20px;
+  padding: 20px 20px 70px 20px;
   font-size: 1.1em;
   font-family: Actor;
   color: var(--text-color-1);

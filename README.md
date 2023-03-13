@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/JulianeMonteiro/Maratona-Kenzie/blob/main/assets/images/readme/tela.png" alt="tela principal" width="300" height="200" />
+  <img src="https://github.com/JulianeMonteiro/Maratona-Kenzie/blob/main/assets/images/readme/tela.png" alt="tela principal" width="700" height="350" />
 </p>
 
 <h1 align="center"> Maratona The Last Of Us  </h1>

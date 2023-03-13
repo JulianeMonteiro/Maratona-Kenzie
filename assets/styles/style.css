@@ -31,7 +31,6 @@
 header > figure > img {
   height: 144px;
   width: 254px;
-  margin-top: 20px;
 }
 
 nav {
@@ -50,7 +49,6 @@ ul > li > a {
   font-family: Iceland;
   font-size: 26px;
   font-weight: 400;
-  line-height: 25px;
   text-align: left;
 }
 

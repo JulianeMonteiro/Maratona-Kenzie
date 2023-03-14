@@ -48,6 +48,12 @@ const episodes = [
     description:
       " Ellie crosses paths with a vengeful group of survivors-and draws the attention of its leader, A weakened Joel faces a new threat.",
   },
+  {
+    img: "./assets/images/episodes/episode9.svg",
+    title: "Look for the Light",
+    description:
+      " A pregnant Anna places her trust in alifelong friend. Later, Joel an Ellie near the end of their journey.",
+  },
 ];
 
 //1. acessar a lista de produtos através do DOM

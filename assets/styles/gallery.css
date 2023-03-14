@@ -1,3 +1,13 @@
+h1 {
+  text-align: center;
+  margin: 0 auto;
+  font-family: Iceland;
+  font-size: 78px;
+  font-weight: 400;
+  line-height: 150px;
+  color: var(--color-grey-2);
+}
+
 .gallery {
   margin: 100px auto;
   width: 80%;

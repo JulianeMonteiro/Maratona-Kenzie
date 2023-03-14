@@ -66,9 +66,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ### 💻 Desktop
 
-| ⭐ Login                                                                                                         | ⭐ Gallery                                                                                                        | ⭐ Story                                                                                                            |
-| ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| ![HomePage](https://github.com/JulianeMonteiro/Maratona-Kenzie/blob/main/assets/images/readme/Component%202.png) | ![StoryPage](https://github.com/JulianeMonteiro/Maratona-Kenzie/blob/main/assets/images/readme/Component%203.png) | ![GalleryPage](https://github.com/JulianeMonteiro/Maratona-Kenzie/blob/main/assets/images/readme/Component%201.png) |
+| ⭐ Login                                                                                                     | ⭐ Gallery                                                                                                     | ⭐ Story                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| ![HomePage](https://github.com/JulianeMonteiro/Maratona-Kenzie/blob/main/assets/images/readme/tela-home.png) | ![StoryPage](https://github.com/JulianeMonteiro/Maratona-Kenzie/blob/main/assets/images/readme/tela-story.png) | ![GalleryPage](https://github.com/JulianeMonteiro/Maratona-Kenzie/blob/main/assets/images/readme/tela-gallery.png) |
 
 <br />
 

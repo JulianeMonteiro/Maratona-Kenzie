@@ -26,9 +26,9 @@
 
 ## 🧩 Introdução
 
-  <p>  <b> Projeto desenvolvido no evento Maratona-the-last-of-us da Kenzie Academy. </b></p>  
-  <p>  <b> Home Page: desenvolvida durante a aula. Adicionei alguns estilos depois para que o projeto ficasse o mais fiel possível ao layout do Figma.  </b></p>
-  <p>  <b> Além disso, criei as páginas 'Story' e 'Gallery' para completar o projeto. </b></p>
+  <p>  <b> Projeto da Página Inicial desenvolvido no evento Maratona-the-last-of-us da Kenzie Academy. </b></p>  
+  <p>  <b> Home Page: Adicionei alguns estilos, posteriormente, para que o projeto ficasse o mais fiel possível ao layout do Figma.  </b></p>
+  <p>  <b> Também desenvolvi as páginas 'Story' e 'Gallery' para completar o projeto. </b></p>
   <p>  <b> Story Page: Adicionei um carrossel de rotação automática contendo a descrição de cada personagem. </b></p>
   <p>  <b> Gallery Page: Usei a biblioteca AOS para realizar renderização das imagens conforme a rolagem da página. </b></p>
 

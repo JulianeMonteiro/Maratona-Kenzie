@@ -30,3 +30,32 @@ h1 {
 .photo-right {
   text-align: start;
 }
+
+@media (min-width: 1000px) and (max-width: 1240px) {
+  .photo img {
+    width: 550px;
+    height: 250px;
+  }
+
+  .gallery {
+    margin: 50px auto;
+    width: 80vw;
+  }
+}
+
+@media (min-width: 800px) and (max-width: 999px) {
+  .photo img {
+    width: 300px;
+    height: 250px;
+  }
+
+  .gallery {
+    margin: 50px auto;
+    width: 80vw;
+  }
+
+  .photo {
+    width: 80%;
+    margin-bottom: 50px;
+  }
+}

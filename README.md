@@ -76,7 +76,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <a id="Ideias"></a>
 
-## 💡 Possíveis Melhoras
+## 💡 Possíveis Melhorias
 
 <br />
 

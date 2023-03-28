@@ -357,3 +357,130 @@ footer > figure > img {
     width: 700px;
   }
 }
+
+@media (min-width: 897px) and (max-width: 1199px) {
+  header > figure > img {
+    height: 124px;
+    width: 184px;
+  }
+
+  nav > ul {
+    width: 100%;
+    justify-content: space-around;
+  }
+
+  h1 {
+    font-size: 78px;
+  }
+
+  main > p {
+    font-size: 20px;
+  }
+  button {
+    height: 36px;
+    width: 160px;
+  }
+
+  section > ul {
+    width: 600px;
+  }
+
+  .flex-column > ul > li {
+    margin-right: 20px;
+  }
+
+  .flex-column > ul > li > img {
+    width: 200px;
+  }
+
+  .flex-column > ul > li > p {
+    font-size: 15px;
+    width: 200px;
+    margin: 0;
+  }
+
+  .episodes {
+    background-size: cover;
+  }
+
+  .posts > p {
+    font-size: 17px;
+    line-height: 20px;
+    padding-left: 0;
+    width: 90%;
+  }
+
+  .card-text {
+    width: 40%;
+    height: 80%;
+    margin: 0;
+  }
+
+  .card > img {
+    height: 100px;
+    width: 200px;
+    border-radius: 12px;
+    opacity: 0.7;
+  }
+
+  .card-text > p {
+    height: 90px;
+    width: 210px;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 22px;
+    padding-left: 20px;
+  }
+
+  .card-text > h4 {
+    padding-left: 20px;
+    font-size: 18px;
+  }
+
+  .episodes-list {
+    overflow-x: hidden;
+    height: 600px;
+    width: 651px;
+  }
+
+  .container > section > h2 {
+    font-size: 65px;
+    text-align: left;
+    width: 100%;
+    padding: 0 0 80px 0;
+  }
+  footer .container > section > h2 {
+    font-size: 32px;
+    text-align: center;
+    width: 100%;
+    padding: 0;
+  }
+  .container > section > h3 {
+    font-size: 24px;
+    text-align: center;
+    width: 100%;
+  }
+
+  .episodes .container,
+  .container,
+  .flex {
+    width: 90vw;
+  }
+
+  .flex-column .flex {
+    width: 0;
+  }
+
+  .flex-column {
+    width: 70%;
+  }
+
+  figure > img {
+    width: 100%;
+  }
+
+  footer > .container.flex {
+    flex-direction: column;
+    padding: 50px 0 100px 0;
+  }
+}

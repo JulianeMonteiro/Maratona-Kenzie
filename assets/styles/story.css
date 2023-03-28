@@ -292,7 +292,25 @@ body {
   }
 }
 
-@media (min-width: 800px) and (max-width: 1199px) {
+@media (min-width: 897px) and (max-width: 1199px) {
+  nav > ul {
+    padding-left: 100px;
+  }
+
+  .carousel .container h2,
+  .carousel .container p {
+    padding: 0 10px;
+  }
+
+  .carousel .container h2 {
+    font-size: 1.2em;
+    padding-bottom: 3px;
+  }
+
+  .carousel p {
+    font-size: 0.9em;
+  }
+
   .slider [class*="box"]:nth-child(1),
   .slider [class*="box"]:nth-child(7),
   .slider [class*="box"]:nth-child(8),
@@ -345,4 +363,28 @@ body {
   .carousel .container p {
     top: 70%;
   }
+
+  .carousel h1 {
+    width: 100%;
+    font-size: 45px;
+    line-height: 110px;
+  }
+
+  .story h2 {
+    text-align: center;
+    margin: 15px auto 10px auto;
+    width: 100%;
+    font-size: 55px;
+  }
+
+  .story p {
+    width: 80%;
+    font-size: 1.6em;
+    line-height: 0.9em;
+    text-align: justify;
+    margin: 0 auto;
+  }
+}
+
+@media (min-width: 570) and (max-width: 799px) {
 }

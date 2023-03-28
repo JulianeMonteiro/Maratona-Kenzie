@@ -43,7 +43,7 @@ h1 {
   }
 }
 
-@media (min-width: 897px) and (max-width: 1199px) {
+@media (min-width: 300px) and (max-width: 1199px) {
   [data-aos][data-aos][data-aos-easing="ease"],
   body[data-aos-easing="ease"] [data-aos] {
     transition-timing-function: ease;

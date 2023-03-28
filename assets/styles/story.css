@@ -292,7 +292,7 @@ body {
   }
 }
 
-@media (min-width: 897px) and (max-width: 1199px) {
+@media (min-width: 300px) and (max-width: 1199px) {
   nav > ul {
     padding-left: 100px;
   }
@@ -386,5 +386,5 @@ body {
   }
 }
 
-@media (min-width: 570) and (max-width: 799px) {
+@media (min-width: 670) and (max-width: 896px) {
 }

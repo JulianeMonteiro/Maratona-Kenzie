@@ -640,4 +640,26 @@ footer > figure > img {
 }
 
 @media (min-width: 600px) and (max-width: 814) {
+  .episodes .container,
+  .container,
+  .flex {
+    width: 90vw;
+  }
+
+  .flex-column .flex {
+    width: 0;
+  }
+
+  .flex-column {
+    width: 70%;
+  }
+
+  figure > img {
+    width: 100%;
+  }
+
+  footer > .container.flex {
+    flex-direction: column;
+    padding: 50px 0 100px 0;
+  }
 }
